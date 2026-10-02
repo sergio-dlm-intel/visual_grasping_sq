@@ -1,0 +1,6 @@
+[submodule "submodules/super_dec"]
+	path = submodules/super_dec
+	url = https://github.com/elisabettafedele/superdec.git
+[submodule "submodules/rl_lab"]
+	path = submodules/rl_lab
+	url = https://github.com/sergio-alberto-dlm/rl_lab.git
